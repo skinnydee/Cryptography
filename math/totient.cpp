@@ -24,10 +24,10 @@ int totient(unsigned int n)
         {
             count++;
         }
-        else 
+        /*else 
         {
             continue;
-        }
+        }*/
     }
     return count;
 }
